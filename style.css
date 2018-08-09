@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  background-color: bisque;
+  font-family: fantasy;
+  color: black;
+}
+image {
+    max-width: 400px;
+}
